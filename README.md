@@ -4,6 +4,9 @@ How relative sizes of incorrect and correct score distributions affect FDR thres
 
 ### Phil Wilmarth
 ### April 10, 2021
+### Score_distributions.pptx
+
+The Excel file `distributions_simulated.xlsx` simulates distributions and computes recovery at a desired FDR.
 
 ---
 
